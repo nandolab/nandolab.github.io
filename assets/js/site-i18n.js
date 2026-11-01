@@ -2,6 +2,17 @@
 (() => {
 'use strict';
 const rows = [
+["Original research artifact · PUC-SP", "Documento original de pesquisa · PUC-SP", "Documento original de investigación · PUC-SP"],
+["The undergraduate research poster", "O pôster da iniciação científica", "El póster de investigación de grado"],
+["The recovered Portuguese poster documents two monthly VAR specifications for 1995–2010, with unit-root tests, stability checks, impulse responses and forecast-error variance decompositions.", "O pôster recuperado em português documenta duas especificações VAR mensais para 1995–2010, com testes de raiz unitária, estabilidade, respostas a impulsos e decomposição da variância dos erros de previsão.", "El póster recuperado en portugués documenta dos especificaciones VAR mensuales para 1995–2010, con pruebas de raíz unitaria, estabilidad, respuestas al impulso y descomposición de la varianza de los errores de pronóstico."],
+["Author: Fernando Barbosa. Supervisor: Prof. Dr. Raphael Almeida Videira.", "Autor: Fernando Barbosa. Orientador: Prof. Dr. Raphael Almeida Videira.", "Autor: Fernando Barbosa. Director: Prof. Dr. Raphael Almeida Videira."],
+["Preserved as originally presented. The underlying data and estimation code have not been recovered; the historical tables have not been independently reproduced.", "Preservado como apresentado originalmente. Os dados e o código de estimação ainda não foram recuperados; as tabelas históricas não foram reproduzidas de forma independente.", "Conservado como se presentó originalmente. Los datos y el código de estimación aún no se han recuperado; las tablas históricas no se han reproducido de forma independiente."],
+["Download the original poster", "Baixar o pôster original", "Descargar el póster original"],
+["PowerPoint · Portuguese · 189 KB", "PowerPoint · Português · 189 KB", "PowerPoint · Portugués · 189 KB"],
+["Contemporary extension · 1996–2025", "Extensão contemporânea · 1996–2025", "Extensión contemporánea · 1996–2025"],
+["Explore the Brazil FDI Observatory", "Explore o Observatório de IED no Brasil", "Explora el Observatorio de IED en Brasil"],
+["The new interactive study extends this research trajectory with official data, monetary comparisons, maps and models with explicit assumptions. Its estimates are separate from the original PUC-SP study.", "O novo estudo interativo amplia essa trajetória com dados oficiais, comparações monetárias, mapas e modelos com hipóteses explícitas. Suas estimativas são distintas das do estudo original da PUC-SP.", "El nuevo estudio interactivo amplía esta trayectoria con datos oficiales, comparaciones monetarias, mapas y modelos con supuestos explícitos. Sus estimaciones son distintas de las del estudio original de PUC-SP."],
+["Open the Brazil FDI Observatory ↗", "Abrir o Observatório de IED no Brasil ↗", "Abrir el Observatorio de IED en Brasil ↗"],
 ["Interactive research","Pesquisa interativa","Investigación interactiva"],
 ["Explore the Research Workbench","Explore o Research Workbench","Explora el Research Workbench"],
 ["Financial Intelligence and the Brazil FDI Observatory: inspect the data, models and evidence.","Inteligência Financeira e Observatório de IED no Brasil: examine dados, modelos e evidências.","Inteligencia Financiera y Observatorio de IED en Brasil: examina los datos, modelos y evidencias."],

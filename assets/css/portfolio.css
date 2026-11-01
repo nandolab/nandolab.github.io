@@ -263,3 +263,6 @@ body #reconciliation>.demo-controls{display:grid;grid-template-columns:minmax(18
 
 /* Clear separation between the homepage actions and direct research access. */
 .hero-links{display:flex;flex-wrap:wrap;align-items:center;column-gap:28px;row-gap:18px;margin-top:24px}.hero-links .primary{margin-top:0}.hero-links .inline-link{margin:0;max-width:100%}.research-workbench-access{display:flex;align-items:center;justify-content:space-between;gap:28px;padding:28px 30px;margin:0 0 42px;background:#edf5f4;border-left:3px solid #167c80}.research-workbench-access h2{font-size:30px;margin:0 0 10px}.research-workbench-access p{margin:0;color:var(--muted)}.research-workbench-access .section-label{margin-bottom:10px}.research-workbench-access .primary{margin:0;flex-shrink:0}@media(max-width:700px){.research-workbench-access{align-items:flex-start;flex-direction:column;padding:22px;gap:20px}.research-workbench-access h2{font-size:27px}.hero-links{column-gap:24px;row-gap:20px}}
+
+/* Original PUC-SP poster: retain native aspect ratio and accessible summary. */
+.fdi-poster{display:grid;grid-template-columns:171px minmax(0,1fr);gap:32px;align-items:start}.fdi-poster img{display:block;width:171px;height:auto;border:1px solid #d7dfeb}.fdi-poster .button{margin-top:12px}@media(max-width:600px){.fdi-poster{grid-template-columns:1fr;gap:20px}}
